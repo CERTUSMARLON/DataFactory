@@ -1,0 +1,9 @@
+{
+	"name": "marlonovallefactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "094d8d0c-856d-4c16-8eb6-fe2e01e6ee25",
+		"tenantId": "576714a9-e9ce-4069-b4bb-304790a4f115"
+	}
+}
